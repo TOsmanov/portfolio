@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/gallery/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <loc>/gallery/kv_alexey/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/gallery/krabby_patty/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <loc>/gallery/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/interior/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -21,11 +24,8 @@
                 href="/"
                 />
   </url><url>
-    <loc>/tags/recipe/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -36,6 +36,21 @@
                 hreflang="en"
                 href="/tags/"
                 />
+  </url><url>
+    <loc>/gallery/kv_nadezhda/</loc>
+    <lastmod>2021-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/gallery/kv_nikita/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/gallery/kv_kristina/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/gallery/kv_100/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/gallery/kv_anastasya/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/about/</loc>
   </url><url>

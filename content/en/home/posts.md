@@ -19,7 +19,7 @@ subtitle = "Read about my latest projects"
 	count = 10
 
 	[content.filters]
-		tag = "interior"
+		tag = ""
 		category = ""
 		publication_type = ""
 		exclude_featured = false

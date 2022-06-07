@@ -5,7 +5,7 @@ tags = ['Interior']
 date = 2021-06-07
 
 # Comment next line and the default banner wil be used.
-banner = './img/kv_nikita/kv_nikita_74m_11.jpg'
+banner = '../img/kv_nikita/kv_nikita_74m_11.jpg'
 
 +++
 

@@ -2,198 +2,198 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/exterior/</loc>
+    <loc>/en/tags/exterior/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/tags/exterior/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/tags/exterior/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/exterior/"
+                />
   </url><url>
-    <loc>/gallery/</loc>
+    <loc>/en/gallery/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/gallery/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/"
+                />
   </url><url>
-    <loc>/</loc>
+    <loc>/en/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/en/tags/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/tags/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
   </url><url>
-    <loc>/gallery/terrace/</loc>
+    <loc>/en/gallery/terrace/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/gallery/terrace/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/gallery/terrace/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/terrace/"
+                />
   </url><url>
-    <loc>/tags/interior/</loc>
+    <loc>/en/tags/interior/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/tags/interior/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/tags/interior/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/interior/"
+                />
   </url><url>
-    <loc>/gallery/restaurant/</loc>
+    <loc>/en/gallery/restaurant/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/gallery/restaurant/"
+                href="/gallery/restaurant/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/gallery/restaurant/"
+                href="/en/gallery/restaurant/"
                 />
   </url><url>
-    <loc>/gallery/kv_220/</loc>
+    <loc>/en/gallery/kv_220/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/gallery/kv_220/"
+                href="/gallery/kv_220/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/gallery/kv_220/"
+                href="/en/gallery/kv_220/"
                 />
   </url><url>
-    <loc>/gallery/kv_alexey/</loc>
+    <loc>/en/gallery/kv_alexey/</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/gallery/kv_alexey/"
+                href="/gallery/kv_alexey/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/gallery/kv_alexey/"
+                href="/en/gallery/kv_alexey/"
                 />
   </url><url>
-    <loc>/gallery/kv_nadezhda/</loc>
+    <loc>/en/gallery/kv_nadezhda/</loc>
     <lastmod>2021-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/gallery/kv_nadezhda/"
+                href="/gallery/kv_nadezhda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/gallery/kv_nadezhda/"
+                href="/en/gallery/kv_nadezhda/"
                 />
   </url><url>
-    <loc>/gallery/kv_nikita/</loc>
+    <loc>/en/gallery/kv_nikita/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/gallery/kv_nikita/"
+                href="/gallery/kv_nikita/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/gallery/kv_nikita/"
+                href="/en/gallery/kv_nikita/"
                 />
   </url><url>
-    <loc>/gallery/kv_kristina/</loc>
+    <loc>/en/gallery/kv_kristina/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/gallery/kv_kristina/"
+                href="/gallery/kv_kristina/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/gallery/kv_kristina/"
+                href="/en/gallery/kv_kristina/"
                 />
   </url><url>
-    <loc>/gallery/kv_100/</loc>
+    <loc>/en/gallery/kv_100/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/gallery/kv_100/"
+                href="/gallery/kv_100/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/gallery/kv_100/"
+                href="/en/gallery/kv_100/"
                 />
   </url><url>
-    <loc>/gallery/extr/</loc>
+    <loc>/en/gallery/extr/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/gallery/extr/"
+                href="/gallery/extr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/gallery/extr/"
+                href="/en/gallery/extr/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/en/categories/"
                 />
   </url>
 </urlset>

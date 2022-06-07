@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exterior on Portfolio</title>
-    <link>/tags/exterior/</link>
+    <link>/en/tags/exterior/</link>
     <description>Recent content in Exterior on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/exterior/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/en/tags/exterior/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Терраса</title>
-      <link>/gallery/terrace/</link>
+      <title>Terrace</title>
+      <link>/en/gallery/terrace/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/gallery/terrace/</guid>
-      <description>День Ночь </description>
+      <guid>/en/gallery/terrace/</guid>
+      <description>Day Night </description>
     </item>
     
     <item>
-      <title>Ландшафтный дизайн</title>
-      <link>/gallery/extr/</link>
+      <title>Landscaping</title>
+      <link>/en/gallery/extr/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/gallery/extr/</guid>
+      <guid>/en/gallery/extr/</guid>
       <description></description>
     </item>
     

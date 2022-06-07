@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Portfolio</title>
-    <link>/tags/</link>
+    <link>/en/tags/</link>
     <description>Recent content in Tags on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exterior</title>
-      <link>/tags/exterior/</link>
+      <link>/en/tags/exterior/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/exterior/</guid>
+      <guid>/en/tags/exterior/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interior</title>
-      <link>/tags/interior/</link>
+      <link>/en/tags/interior/</link>
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/interior/</guid>
+      <guid>/en/tags/interior/</guid>
       <description></description>
     </item>
     

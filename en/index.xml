@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Портфолио</title>
+    <title>Portfolio</title>
     <link>/en/</link>
-    <description>Recent content on Портфолио</description>
+    <description>Recent content on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
@@ -86,6 +86,15 @@
       
       <guid>/en/gallery/extr/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Multigrill Delongi</title>
+      <link>/en/gallery/multigrill/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/gallery/multigrill/</guid>
+      <description>Buy</description>
     </item>
     
   </channel>

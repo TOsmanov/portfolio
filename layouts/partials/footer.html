@@ -1,0 +1,25 @@
+<footer class="w-full h-24 text-center text-xs text-gray-400 bg-black relative">
+	<div class="w-full px-6 md:pt-0 md:mx-auto md:max-w-5xl flex flex-1 space-between items-center absolute-center">
+		<a href="{{ .Site.Home.Permalink }}" class="absolute">
+			{{ partial "icon" . }}
+		</a>
+
+		<div class="h-full flex-1">
+			<span class="select-none">
+				<a href="https://github.com/negrel/hugo-theme-pico" class="text-gray-400 hover:text-gray-200 no-underline">Pico</a>
+				theme for
+				<a href="https://gohugo.io/" class="text-gray-400 hover:text-gray-200 no-underline">Hugo</a>
+			</span>
+		</div>
+	</div>
+	<div id="cookie_notification">
+		{{ if eq .Site.LanguageCode "ru" }}
+        <p>Для улучшения работы сайта и его взаимодействия с пользователями мы используем файлы cookie. Продолжая работу с сайтом, Вы разрешаете использование cookie-файлов. Вы всегда можете отключить файлы cookie в настройках Вашего браузера.</p>
+		<button class="button cookie_accept">Принять</button>
+		{{ else }}
+        <p>To improve the operation of the site and its interaction with users, we use cookies. By continuing to use the site, you allow the use of cookies. You can always disable cookies in your browser settings.</p>
+		<button class="button cookie_accept">Accept</button>
+		{{ end }}
+	</div>
+	<script src="/js/checkcookies.js" intergrity="sha384-BBAA1B4CD154B1B57130787D4E68DAA0FE054EAC5035B04F93B4B89CA6CBAE6F09CF4B877859AF90BC26C1C38F6632CD" crossorigin="anonymous"></script>
+</footer>

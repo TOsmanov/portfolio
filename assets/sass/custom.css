@@ -34,7 +34,7 @@
   }
 }
   
-@media (max-width: 575px){
+@media (max-width: 575px) {
   #cookie_notification .show {
     display: block;
   }

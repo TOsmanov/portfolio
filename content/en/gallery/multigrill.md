@@ -1,6 +1,6 @@
 +++
 title = "Multigrill Delongi"
-subtitle = "Multigrill Delongi model"
+subtitle = "Multigrill Delongi 3d model"
 tags = ['Models']
 date = 2020-11-09
 
